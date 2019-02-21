@@ -1,0 +1,80 @@
+﻿.admPanel{
+    max-width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 23% auto;
+}
+a{
+    text-decoration: none;
+    font-size: 32px;
+    color: white;
+}
+    .admPanel .admNav {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        font-family: Yesteryear;
+        background: #434343;
+        padding: 50px 0 50px 0;
+    }
+        .admPanel .admNav a:hover {
+            transition: .5s;
+            color: #ffa000;
+            padding: 5px 15px;
+            border: 3px solid #ffa000;
+            border-radius: 5px;
+            font-size: 32.3px;
+        }
+        .admPanel .admNav .firstN {
+            grid-column: span 12;
+            text-align: center;
+            padding: 10px;
+        }
+        .admPanel .admNav .secondN {
+            display: grid;
+            grid-template-rows: repeat(8,1fr);
+            grid-column: span 6;
+            text-align: center;
+        }
+            .admPanel .admNav .secondN div {
+                padding: 10px;
+            }
+        .admPanel .admNav .thirdN {
+            display: grid;
+            grid-template-rows: repeat(8,1fr);
+            grid-column: span 6;
+            text-align: center;
+        }
+            .admPanel .admNav .thirdN div {
+                padding: 10px;
+            }
+.rightContaier {
+    max-width: 100%;
+    max-height: 100%;
+    text-align: center;
+}
+        .rightContaier img {
+            padding: 20px;
+            width: 48%;
+        }
+        .rightContaier a{
+            text-decoration: none;
+            color: #333;
+            font-size: 20px;
+        }
+        .rightContaier table{
+            width: 100%;
+            font-size: 20px;
+        }
+        .rightContaier td ,tr{
+            padding: 10px;
+        }
+    .rightContaier td {
+        background: #555;
+        color: white;
+    }
+    .rightContaier td a{
+        color:white;
+    }
+    .rightContaier p a{ 
+        color: blue;
+    }

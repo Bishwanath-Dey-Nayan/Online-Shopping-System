@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/AdminCss/Header.css" rel="stylesheet" />
+    <link href="~/Content/AdminCss/Footer.css" rel="stylesheet" />
+    <link href="~/Content/AdminCss/Main.css" rel="stylesheet" />
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+        @*---------------------Navigation Section-------------------*@
+        <section class="NavSection">
+            <nav class="Navigation">
+                <div class="Logo">
+                    <img src="~/Image/Banners/NayanT.png" />
+                </div>
+                <div class="NavBtn">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Products</a></li>
+                        <li><a href="#">Catagory</a></li>
+                        @Html.Partial("_LoginPartial")
+                        <li><a href="#">SignUp</a></li>
+                    </ul>
+                </div>
+            </nav>
+    </section>
+        <section class="admPanel">
+            <div class="admNav">
+                <div class="firstN">
+                    <a href="#">Home</a>
+                </div>
+                <div class="secondN">
+                    <div><a href="../../Countries/Index">Country</a></div>
+                    <div><a href="../../Accounts/Index">Accounts</a></div>
+                    <div><a href="../../Size/Index">Size</a></div>
+                    <div><a href="../../UserType/Index">UserType</a></div>
+                    <div><a href="../../Vendor/Index">Vendor</a></div>
+                    <div><a href="../../PurchaseDetail/Index">PurchaseDetails</a></div>
+                    <div><a href="../../Order/Index">Order</a></div>
+
+                </div>
+                <div class="thirdN">
+                    <div><a href="../../City/Index">City</a></div>
+                    <div><a href="../../Brands/Index">Brand</a></div>
+                    <div><a href="../../Gender/Index">Gender</a></div>
+                    <div><a href="../../Unit/Index">Unit</a></div>
+                    <div><a href="../../Product/Index">Product</a></div>
+                    <div><a href="../../Purchase/Index">Purchase</a></div>
+
+
+                </div>
+            </div>
+            @RenderBody()
+
+        </section>
+                <section class="Footer">
+                    <footer>
+                        <img src="~/Image/Banners/footer.png" />
+                    </footer>
+                </section>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>

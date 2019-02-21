@@ -1,0 +1,366 @@
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\ApplicationInsights.config
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\NayanTraders.dll.config
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\NayanTraders.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\NayanTraders.pdb
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Antlr3.Runtime.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\EntityFramework.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\EntityFramework.SqlServer.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AI.Agent.Intercept.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AI.DependencyCollector.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AI.Web.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AI.WindowsServer.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.ApplicationInsights.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AspNet.Identity.Core.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.Cookies.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.Facebook.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.Google.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.OAuth.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.Twitter.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Web.Infrastructure.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Newtonsoft.Json.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Owin.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.Helpers.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.Mvc.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.Optimization.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.Razor.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.WebPages.Deployment.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.WebPages.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.WebPages.Razor.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\WebGrease.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.Helpers.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.Mvc.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.Optimization.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.Razor.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.WebPages.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.WebPages.Deployment.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\System.Web.WebPages.Razor.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Antlr3.Runtime.pdb
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Newtonsoft.Json.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\EntityFramework.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\EntityFramework.SqlServer.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AspNet.Identity.Core.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.Facebook.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.Cookies.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.OAuth.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.Google.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.Twitter.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.ApplicationInsights.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AI.DependencyCollector.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AI.WindowsServer.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\bin\Microsoft.AI.Web.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\obj\Debug\NayanTraders.csproj.CoreCompileInputs.cache
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\obj\Debug\NayanTraders.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\obj\Debug\NayanTraders.pdb
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\obj\Debug\NayanTraders.csprojResolveAssemblyReference.cache
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\obj\Debug\NayanTraders.Migrations.InitialCreate.resources
+E:\education\Nineth Semester\System Analysis\NayanTraders\NayanTraders\obj\Debug\NayanTraders.csproj.GenerateResource.Cache
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\obj\Debug\NayanTraders.csprojResolveAssemblyReference.cache
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\obj\Debug\NayanTraders.Migrations.InitialCreate.resources
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\obj\Debug\NayanTraders.csproj.GenerateResource.Cache
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\obj\Debug\NayanTraders.csproj.CoreCompileInputs.cache
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\obj\Debug\NayanTraders.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\obj\Debug\NayanTraders.pdb
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\ApplicationInsights.config
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\NayanTraders.dll.config
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\NayanTraders.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\NayanTraders.pdb
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Antlr3.Runtime.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\EntityFramework.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\EntityFramework.SqlServer.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AI.Agent.Intercept.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AI.DependencyCollector.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AI.Web.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AI.WindowsServer.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.ApplicationInsights.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AspNet.Identity.Core.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.Cookies.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.Facebook.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.Google.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.OAuth.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.Twitter.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Web.Infrastructure.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Newtonsoft.Json.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Owin.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.Helpers.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.Mvc.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.Optimization.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.Razor.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.WebPages.Deployment.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.WebPages.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.WebPages.Razor.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\WebGrease.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\EntityFramework.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\EntityFramework.SqlServer.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.Helpers.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.Mvc.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.Optimization.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.Razor.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.WebPages.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.WebPages.Deployment.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\System.Web.WebPages.Razor.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Antlr3.Runtime.pdb
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Newtonsoft.Json.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AspNet.Identity.Core.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.Facebook.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.Cookies.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.OAuth.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.Google.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.Twitter.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.ApplicationInsights.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AI.DependencyCollector.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AI.WindowsServer.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL\NayanTraders\bin\Microsoft.AI.Web.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.Migrations.InitialCreate.resources
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.csproj.GenerateResource.Cache
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.csproj.CoreCompileInputs.cache
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.pdb
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\ApplicationInsights.config
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\NayanTraders.dll.config
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\NayanTraders.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\NayanTraders.pdb
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Antlr3.Runtime.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.SqlServer.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.Agent.Intercept.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.DependencyCollector.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.Web.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.WindowsServer.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.ApplicationInsights.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Core.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Cookies.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Facebook.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Google.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.OAuth.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Twitter.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Web.Infrastructure.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Newtonsoft.Json.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Owin.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Helpers.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Mvc.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Optimization.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Razor.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Deployment.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Razor.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\WebGrease.dll
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.SqlServer.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Helpers.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Mvc.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Optimization.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Razor.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Deployment.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Razor.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Antlr3.Runtime.pdb
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Newtonsoft.Json.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Core.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Facebook.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Cookies.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.OAuth.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Google.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Twitter.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.ApplicationInsights.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.DependencyCollector.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.WindowsServer.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.Web.xml
+E:\education\Nineth Semester\System Analysis\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.csprojResolveAssemblyReference.cache
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\ApplicationInsights.config
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\NayanTraders.dll.config
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\NayanTraders.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\NayanTraders.pdb
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Antlr3.Runtime.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.SqlServer.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.Web.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Newtonsoft.Json.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Owin.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Helpers.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Mvc.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Optimization.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Razor.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\WebGrease.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.SqlServer.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Helpers.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Mvc.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Optimization.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Razor.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Antlr3.Runtime.pdb
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Newtonsoft.Json.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.Web.xml
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.csprojResolveAssemblyReference.cache
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.Migrations.InitialCreate.resources
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.csproj.GenerateResource.Cache
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.csproj.CoreCompileInputs.cache
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.dll
+C:\Users\Nayan Dey\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.pdb
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\ApplicationInsights.config
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\NayanTraders.dll.config
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\NayanTraders.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\NayanTraders.pdb
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Antlr3.Runtime.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.SqlServer.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.Web.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Newtonsoft.Json.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Owin.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Helpers.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Mvc.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Optimization.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Razor.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\WebGrease.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\EntityFramework.SqlServer.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Helpers.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Mvc.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Optimization.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.Razor.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Antlr3.Runtime.pdb
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Newtonsoft.Json.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\bin\Microsoft.AI.Web.xml
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.Migrations.InitialCreate.resources
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.csproj.GenerateResource.cache
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.csproj.CoreCompileInputs.cache
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.csproj.CopyComplete
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.dll
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.pdb
+C:\Users\Rakib\Desktop\NayanTraders  WL - Copy\NayanTraders\obj\Debug\NayanTraders.csprojAssemblyReference.cache

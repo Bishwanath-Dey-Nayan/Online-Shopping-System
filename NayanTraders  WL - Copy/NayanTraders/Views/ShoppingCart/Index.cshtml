@@ -1,0 +1,54 @@
+﻿@using NayanTraders.Models;
+@{
+    ViewBag.Title = "All";
+    Layout = "~/Views/Shared/OtherPageLayout.cshtml";
+}
+
+<div class="cart">
+    <h2>Cart</h2>
+    <div class="cartTbl">
+        <table border="1">
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>SubTotal</th>
+                <th>Delete</th>
+            </tr>
+            @foreach (var cart in (List<Cart>)Session["Cart"])
+            {
+                <tr>
+                    <td>@cart.Product.Name</td>
+                    <td>@cart.Product.Price</td>
+                    <td>@cart.Quantity</td>
+                    <td>@(cart.Product.Price * cart.Quantity)</td>
+                    <td style="background: red;"><a style=" color: white;" href="../../ShoppingCart/Delete?id=@cart.Product.Id" onclick="return confirm('Are You sure?');">Delete</a></td>
+
+                </tr>
+            }
+            <tr>
+                @*For showing the total value*@
+                <td colspan="3" style="background:green; color: white;">
+                    Total
+                </td>
+                <td colspan="2" style="background: #333;color: white;">
+                    @{
+                        var temp = (List<Cart>)Session["Cart"];
+                        var total = (temp.Sum(t => t.Product.Price * t.Quantity)).ToString();
+                    }
+                    @total
+
+                </td>
+            </tr>
+
+
+        </table>
+
+
+        <span class="continue">
+            @Html.ActionLink("Continue Shopping?", "All", "Product")
+        </span>
+        @Html.ActionLink("CheckOut", "CheckOut", "ShoppingCart")
+
+    </div>
+</div>

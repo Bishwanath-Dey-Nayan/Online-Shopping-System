@@ -1,0 +1,50 @@
+﻿@using NayanTraders.Models;
+@{
+    ViewBag.Title = "All";
+    Layout = "~/Views/Shared/OtherPageLayout.cshtml";
+}
+<div class="cart">
+    <h2>CheckOut</h2>
+    <div class="cartTbl">
+        <table border="1">
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>SubTotal</th>
+            </tr>
+            @foreach (var cart in (List<Cart>)Session["Cart"])
+            {
+                <tr>
+                    <td>@cart.Product.Name</td>
+                    <td>@cart.Product.Price</td>
+                    <td>@cart.Quantity</td>
+                    <td>@(cart.Product.Price * cart.Quantity)</td>
+
+
+                </tr>
+            }
+            <tr>
+                @*For showing the total value*@
+                <td colspan="3" style="background:green; color: white;">
+                    Total
+                </td>
+                <td colspan="2" style="background: #333;color: white;">
+                    @{
+                        var temp = (List<Cart>)Session["Cart"];
+                        var total = (temp.Sum(t => t.Product.Price * t.Quantity)).ToString();
+                    }
+                    @total
+
+                </td>
+            </tr>
+
+
+        </table>
+    </div>
+
+
+    <br />
+    <a style="color: blue;" href="../../ShoppingCart/ProcessOrder" class="btn btn-primary">Confirm Order</a>
+    <br />
+</div>

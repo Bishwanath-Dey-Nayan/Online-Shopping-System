@@ -1,0 +1,32 @@
+﻿.plasticmat{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+    .plasticmat h2{
+        background: #333;
+        color: white;
+        padding: 10px;
+        position: relative;
+        top: 19px;
+    }
+    .plasticmat table {
+        width: 100%;
+        margin: auto;
+        font-size: 17px;; 
+    }
+    .plasticmat table th{
+        padding: 10px;
+        font-size: 15px;
+        background: #FFA000;
+    }
+        .plasticmat table td{
+            background: #333;
+            color: white;
+            padding: 15px;
+            overflow:hidden;
+        }
+        .plasticmat table td img{
+            width: 150px;
+            height: 250px;
+        }

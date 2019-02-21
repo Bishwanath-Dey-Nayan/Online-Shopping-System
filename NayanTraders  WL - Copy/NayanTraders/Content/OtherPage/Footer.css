@@ -1,0 +1,10 @@
+﻿.Footer {
+    width: 100%;
+    bottom: 0;
+}
+
+    .Footer footer img {
+        max-width: 100%;
+        height: auto;
+        position: absolute;
+    }

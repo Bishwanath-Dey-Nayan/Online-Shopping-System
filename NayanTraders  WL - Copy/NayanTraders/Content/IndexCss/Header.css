@@ -1,0 +1,127 @@
+﻿.NavSection {
+    width: 100%;
+    height: auto;
+    overflow:hidden;
+}
+
+.Navigation {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    position: absolute;
+    width: 100%;
+}
+.bubbles {
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+    top: 346px;
+    overflow: hidden;
+}
+    .bubbles img {
+        position: relative;
+        opacity: .5;
+        right: -10px;
+        max-width: 100%;
+        max-height: 100%;
+        animation: animateBubble 4s infinite;
+    }
+@keyframes animateBubble {
+    0% {
+        opacity: .2;
+        transform: scale(.98);
+    }
+    50% {
+        opacity: .7;
+        transform: scale(1.01);
+    }
+    100% {
+        opacity: .2;
+        transform: scale(.98);
+    }
+}
+.indicator {
+    position: absolute;
+    z-index: 1;
+    left: 48.8%;
+    top: 0;
+    top: 700px;
+    animation: animate 1.8s infinite;
+}
+@keyframes animate {
+    from {
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.Navigation .Logo {
+    max-width: 100%;
+    height: auto;
+    margin-left: 20%;
+}
+
+        .Navigation .Logo img {
+            max-width: 100%;
+        }
+
+    .Navigation ul {
+        display: flex;
+        margin-right: 15px;
+        justify-content: center;
+    }
+
+        .Navigation ul li {
+            list-style-type: none;
+            padding: 30px 25px;
+        }
+
+            .Navigation ul li a {
+                text-decoration: none;
+                color: #FAFDEF;
+                font-size: 20px;
+                transition: .3s;
+            }
+
+                .Navigation ul li a:hover {
+                    color: #ffa000;
+                    padding: 5px 15px;
+                    border: 3px solid #ffa000;
+                    font-size: 23px;
+                }
+
+.NavSection .FBanner {
+    position: relative;
+    top: 0;
+    z-index: -1;
+}
+
+    .NavSection .FBanner img {
+        max-width: 100%;
+        height: 100%;
+    }
+
+.NavSection .LearnMore {
+    font-family: "Yesteryear";
+    z-index: 3;
+    position: absolute;
+    border: 2px solid #ffa000;
+    top: 493px;
+    left: 13.5%;
+    padding: 2px 8px;
+}
+    .NavSection .LearnMore a {
+        text-decoration: none;
+        color: #ffa000;
+        font-size: 37px;
+        padding: 0 5px;
+    }
+        .NavSection .LearnMore a:hover {
+            background: #ffa000;
+            color: black;
+            transition: .8s;
+        }

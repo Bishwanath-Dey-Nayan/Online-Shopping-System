@@ -1,0 +1,52 @@
+﻿/*-------------Logo------------------*/
+.NavSection {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    background: #434343;
+}
+.Navigation {
+    display: grid;
+    grid-template-columns:30% 70%;
+}
+.Navigation .Logo{
+    max-width: 100%;
+    padding-left: 34.5%; 
+}
+.Navigation .Logo img{
+    width: 160px;
+}
+
+/*----------------Buttons------------------*/
+.Navigation .NavBtn{
+    max-width: 100%;
+    max-height: 100%;
+}
+    .Navigation .NavBtn ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(50px, auto));
+        align-items: center;
+        grid-gap: 15px;
+        height: 100%;
+        width: 100%;
+    }
+    .Navigation .NavBtn ul li {
+        padding: 10px;
+        text-align: center;
+    }
+        .Navigation .NavBtn ul li a {
+            text-decoration: none;
+            font-size: 18px;
+            font-family: "Aclonica";
+            color: white;
+            transition: .5s;
+        }
+            .Navigation .NavBtn ul li a:hover {
+                color: #ffa000;
+                padding: 5px 15px;
+                border: 3px solid #ffa000;
+                font-size: 23px;
+            }

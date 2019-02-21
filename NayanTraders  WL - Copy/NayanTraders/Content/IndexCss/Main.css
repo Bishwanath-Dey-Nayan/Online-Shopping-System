@@ -1,0 +1,115 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Aclonica');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Aclonica', sans-serif;
+    background: #ffe7aa;
+}
+
+p, h1, h2, h3, h4, a, ul, li {
+    padding: 0;
+    margin: 0;
+}
+.rightCartoon {
+    position: absolute;
+    right:0;
+    z-index: 1;
+    top: 1215px;  
+}
+.rightCartoon2 {
+    position: absolute;
+    right: 0;
+    z-index: 1;
+    top: 3050px;
+}
+.leftCartoon {
+    position: absolute;
+    left: 0;
+    z-index: 1;
+    top: 2200px;
+}
+.Container {
+    max-width: 100%;
+    height: 100%;
+}
+
+.Letest {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: -3px;
+}
+
+    .Letest img {
+        max-width: 100%;
+    }
+
+.Offers {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: -6px;
+}
+
+    .Offers img {
+        max-width: 100%;
+    }
+.Products {
+    width: 100%;
+    height: 100%;
+}
+    .Products .AlignProduct {
+        width: 94%;
+        height: auto;
+        margin: 20px auto;
+        box-shadow: 0 10px 20px rgba(0,0,0,0.5), 0 -2px 30px rgba(0,0,0,0.5);
+        background: #fff8f8;
+    }
+        .Products .AlignProduct .HeaderText {
+            font-size: 23px;
+            padding: 20px;
+            color: #ffa000;
+            background: #333;
+            border-bottom: 5px solid #ffa000;
+        }
+        .Products .AlignProduct .ProductContainer {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+        }
+        .Products .AlignProduct .card {
+            max-width: 100%;
+            display: grid;
+            grid-template-rows: 80% 20%;
+            overflow: hidden;
+            margin: 5px;
+            background: white;
+        }
+            .Products .AlignProduct .card:hover {
+                transition: .5s;
+                transform: scale(1.02);
+                box-shadow: 0 5px 10px rgba(0,0,0,0.6);
+            }
+            .Products .AlignProduct .card .PImage {
+                max-width: 100%;
+                height: auto;
+                overflow: hidden;
+                padding: 3%;
+            }
+                .Products .AlignProduct .card .PImage img {
+                    width: 300px;
+                    height: 300px;
+                }
+            .Products .AlignProduct .card .PDetails {
+                max-width: 100%;
+                height: auto;
+                overflow: hidden;
+                text-align: center;
+                padding: 15px 10px;
+                border-top: 3px solid black;
+            }

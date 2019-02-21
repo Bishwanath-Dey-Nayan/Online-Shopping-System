@@ -1,0 +1,20 @@
+﻿@model IEnumerable<NayanTraders.Models.Category>
+
+@{
+    ViewBag.Title = "All";
+    Layout = "~/Views/Shared/OtherPageLayout.cshtml";
+}
+
+
+<section class="catagoryC">
+    <div class="catagory">
+        <h3>Product Categories</h3>
+
+        <ul>
+            @foreach (var i in Model)
+            {
+                <li><a href="../../Product/ProductByCredential?cId=@i.Id">@i.Name</a></li>
+            }
+        </ul>
+    </div>
+</section>

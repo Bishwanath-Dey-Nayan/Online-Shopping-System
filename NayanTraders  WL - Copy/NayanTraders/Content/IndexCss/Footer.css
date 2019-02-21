@@ -1,0 +1,43 @@
+﻿.Footer .Details {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background: #FAFDEF;
+    height: 250px;
+}
+    .Footer .Details .Fdesign {
+        border-left: 2px solid #ffa000;
+        border-right: 2px solid #ffa000;
+        text-align: center;
+        overflow: hidden;
+    }
+        .Footer .Details .Fdesign h4 {
+            width: 100%;
+            background: #333;
+            color: #ffa000;
+            padding: 10px;
+            font-size: 20px;
+        }
+        .Footer .Details .Fdesign P {
+            padding-top: 10px;
+        }
+        .Footer .Details .Fdesign a {
+            text-decoration: none;
+            color: #ffa000;
+        }
+
+
+            .Footer footer {
+                position: relative;
+                width: 100%;
+                height: auto;
+            }
+
+    .Footer footer img {
+        max-width: 100%;
+        height: auto;
+        position: absolute;
+    }
+
+.Link, .Contact, .Location {
+    text-align: center;
+}

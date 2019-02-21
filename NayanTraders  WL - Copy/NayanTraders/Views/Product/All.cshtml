@@ -1,0 +1,40 @@
+﻿@model IEnumerable<NayanTraders.Models.Product>
+
+@{
+    ViewBag.Title = "All";
+    Layout = "~/Views/Shared/OtherPageLayout.cshtml";
+}
+
+@using(Html.BeginForm()){
+<div class="search">
+    <p>Search By Product Name</p>
+    @Html.TextBox("searchstring") &nbsp;<input type="number" name="From" value="" /> &nbsp;@Html.TextBox("To")
+    <br/>   
+    <input class="btn" type="submit" value="Search" />
+</div>
+}
+<div class="center">
+   <div class="product">
+       @foreach (var item in Model)
+    {
+
+       <div class="product-all cards">
+           <div class="hTxt">
+               <h3>Name:<a href="../../Product/Details?id=@item.Id">@item.Name</a><span>(  @Html.DisplayFor(modelItem => item.Code))</span></h3>
+
+               <p> Brand Name:@Html.DisplayFor(modelItem => item.Brands.Name) Unit: @Html.DisplayFor(modelItem => item.Unit.Name) </p>
+               <p>Size: @Html.DisplayFor(modelItem => item.Size.Name) Category:  @Html.DisplayFor(modelItem => item.Category.Name)</p>
+           </div>
+           <div class="mCnt">
+               <img src="~/Upload/ProductImage/@(item.Id+"_"+item.Image)" />
+           </div>
+           <div class="fTxt">
+               <h5>Price:<span style="text-decoration:line-through;">@item.Price</span>&nbsp;- &nbsp;<span style="color:#ff0000">@item.Discount%</span>=<b>@(item.Price - ((item.Price * int.Parse(item.Discount)) / 100))</b></h5>
+               <a href="../../ShoppingCart/OrderNow?id=@item.Id" class="btn btn-info">Add to Cart</a>
+           </div>
+       </div>
+}
+   </div>
+    </div>
+
+

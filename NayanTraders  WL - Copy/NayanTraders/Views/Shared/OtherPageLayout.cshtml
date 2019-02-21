@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/Content/Catagory/Catagory.css" rel="stylesheet" />
+    <link href="~/Content/Cart/Cart.css" rel="stylesheet" />
+    <link href="~/Content/Products/Products.css" rel="stylesheet" />
+    <link href="~/Content/PlasticMats/Plasticmat.css" rel="stylesheet" />
+    <link href="~/Content/OtherPage/Footer.css" rel="stylesheet" />
+    <link href="~/Content/OtherPage/Header.css" rel="stylesheet" />
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+@*---------------------Navigation Section-------------------*@
+<section class="NavSection">
+    <nav class="Navigation">
+        <div class="Logo">
+            <img src="~/Image/Banners/NayanT.png" />
+        </div>
+        <div class="NavBtn">
+            <ul>
+                <li><a href="../../Home/Index2">Home</a></li>
+                <li><a href="../../Product/All">Products</a></li>
+                <li><a href="../../Product/Category">Catagory</a></li>
+                @Html.Partial("_LoginPartial")
+                <li><a href="#">SignUp</a></li>
+            </ul>
+        </div>
+    </nav>
+</section>
+@RenderBody()
+<section class="Footer">
+    <footer>
+        <img src="~/Image/Banners/footer.png" />
+    </footer>
+</section>
+
+@RenderSection("scripts", required: false)
+</body>
+</html>
+

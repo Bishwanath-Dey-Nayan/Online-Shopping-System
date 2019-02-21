@@ -1,0 +1,97 @@
+﻿@model NayanTraders.Models.Product
+
+@{
+    ViewBag.Title = "All";
+    Layout = "~/Views/Shared/OtherPageLayout.cshtml";
+}
+
+<br />
+<br />
+
+<div class="container row">
+    <div class="col-md-5">
+
+        <img src="~/Upload/ProductImage/@(Model.Id+"_"+Model.Image)" width="300px" height="300px" />
+    </div>
+    <div class="col-md-6">
+        <dl class="dl-horizontal">
+            <dt>
+                Product Name:
+            </dt>
+
+            <dd>
+                <p style="color:#0094ff;font-size:medium;">@Model.Name</p>
+            </dd>
+            <dt>
+                Product code:
+            </dt>
+
+            <dd>
+                @Model.Code
+            </dd>
+            <dt>
+                Brand:
+            </dt>
+
+            <dd>
+                @Model.Brands.Name
+            </dd>
+
+            <dt>
+                Category
+            </dt>
+
+            <dd>
+                @Model.Category.Name
+            </dd>
+
+            <dt>
+                Size
+            </dt>
+
+            <dd>
+                @Model.Size.Name
+            </dd>
+
+            <dt>
+                Sales Unit:
+            </dt>
+
+            <dd>
+                @Model.Unit.Name
+            </dd>
+
+            <dt>
+                Price:
+            </dt>
+
+            <dd>
+                @Model.Price BDT
+            </dd>
+
+            <dt>
+                Discount:
+            </dt>
+
+            <dd>
+                @Model.Discount%
+            </dd>
+
+            <dt>
+                Final Price:
+            </dt>
+
+            <dd>
+                @(Model.Price - ((Model.Price * int.Parse(Model.Discount)) / 100))BDT
+            </dd>
+
+
+
+        </dl>
+
+    </div>
+
+
+</div>
+
+
